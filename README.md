@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranav Jha
-- 👀 I’m working as a Data Scientist @ Kyndryl | IBM
+- 👀 I’m working as a Data Scientist @ Ericsson
 - 📫 Reach out to me on my personal email id : pranavjha1993@gmail.com
 
 <!---
