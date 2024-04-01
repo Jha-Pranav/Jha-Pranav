@@ -1,9 +1,12 @@
+<center>
+
 # Pranav Jha - Machine Learning Engineer 👨‍💻
 
 ![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-informational?style=flat&logo=gmail&logoColor=white&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jha-pranav)
 [![Website](https://img.shields.io/badge/Website-Visit%20My%20Portfolio-blue?style=flat&logo=github&logoColor=white)](https://jha-pranav.github.io/My-portfolio-website/)
 
+</center>
 
 
 <!-- Introduction Section -->
