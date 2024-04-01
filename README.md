@@ -3,7 +3,7 @@
 <p align="center">
   <a href="mailto:pranavjha1993@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Message-informational?style=flat&logo=gmail&logoColor=white&color=blue" alt="Email"></a>
   <a href="https://linkedin.com/in/jha-pranav"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/jha-pranav"><img src="https://img.shields.io/badge/Twitter-Follow%20Me-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+<!--   <a href="https://twitter.com/jha-pranav"><img src="https://img.shields.io/badge/Twitter-Follow%20Me-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a> -->
 </p>
 
 <!-- Introduction Section -->
@@ -88,7 +88,7 @@
 <p align="center">
   <strong>Email:</strong> pranavjha1993@gmail.com<br>
   <strong>LinkedIn:</strong> [Jha-Pranav](https://linkedin.com/in/jha-pranav)<br>
-  <strong>Twitter:</strong> [jha-pranav](https://twitter.com/jha-pranav)
+<!--   <strong>Twitter:</strong> [jha-pranav](https://twitter.com/jha-pranav) -->
 </p>
 
 Feel free to connect with me on LinkedIn or drop me an email. Let's explore exciting opportunities together!
