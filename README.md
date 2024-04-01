@@ -1,10 +1,22 @@
-<!-- Header Section -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pranav Jha - Machine Learning Engineer</title>
+</head>
+<body>
+
 <h1 align="center">Pranav Jha - Machine Learning Engineer 👨‍💻</h1>
 <p align="center">
   <a href="mailto:pranavjha1993@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Message-informational?style=flat&logo=gmail&logoColor=white&color=blue" alt="Email"></a>
   <a href="https://linkedin.com/in/jha-pranav"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<!--   <a href="https://twitter.com/jha-pranav"><img src="https://img.shields.io/badge/Twitter-Follow%20Me-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a> -->
+  <a href="https://jha-pranav.github.io/My-portfolio-website/"><img src="https://img.shields.io/badge/Twitter-Follow%20Me-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
+
+</body>
+</html>
+
 
 <!-- Introduction Section -->
 <h3 align="center">Hi, I'm Pranav Jha, a Machine Learning Engineer with 6+ years of experience. Currently contributing my expertise at Ericsson.</h3>
