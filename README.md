@@ -1,21 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Pranav Jha - Machine Learning Engineer</title>
-</head>
-<body>
+# Pranav Jha - Machine Learning Engineer 👨‍💻
 
-<h1 align="center">Pranav Jha - Machine Learning Engineer 👨‍💻</h1>
-<p align="center">
-  <a href="mailto:pranavjha1993@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Message-informational?style=flat&logo=gmail&logoColor=white&color=blue" alt="Email"></a>
-  <a href="https://linkedin.com/in/jha-pranav"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://jha-pranav.github.io/My-portfolio-website/"><img src="https://img.shields.io/badge/Twitter-Follow%20Me-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
-</p>
+![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-informational?style=flat&logo=gmail&logoColor=white&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jha-pranav)
+[![Website](https://img.shields.io/badge/Website-Visit%20My%20Portfolio-blue?style=flat&logo=github&logoColor=white)](https://jha-pranav.github.io/My-portfolio-website/)
 
-</body>
-</html>
 
 
 <!-- Introduction Section -->
